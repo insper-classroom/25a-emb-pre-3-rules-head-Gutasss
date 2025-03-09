@@ -1,4 +1,5 @@
 // main.c
+//teste
 #include "foo.h"
 
 int main(void) {
